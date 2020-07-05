@@ -124,7 +124,7 @@ public class MainActivity extends AppCompatActivity {
         homeButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                webView.loadUrl("http://google.com");
+                webView.loadUrl("http://www.google.com");
             }
         });
     }
